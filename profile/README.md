@@ -8,7 +8,7 @@ A live demo available is at [https://patentnaprzyszlosc.netlify.app](https://pat
 
 ## Contribution
 
-Created by Galileo AI Team during the HackYeah 2023 at Cracow, Poland, Earth, Milky Way.
+Created by **Galileo AI Team** during the **HackYeah 2023** at Cracow, Poland, Earth, Milky Way.
 
 <!--
 
