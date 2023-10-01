@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-This is the ultimate software helping young people to make the greatest decisions with their careers.
+This is the ultimate software helping young people make the most significant career decisions.
+
+## Demo
+
+A live demo available is at [https://patentnaprzyszlosc.netlify.app](https://patentnaprzyszlosc.netlify.app).
+
+## Contribution
+
+Created by Galileo AI Team during the HackYeah 2023 at Cracow, Poland, Earth, Milky Way.
 
 <!--
 
